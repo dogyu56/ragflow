@@ -28,7 +28,7 @@ user_default_llm:
 oauth:
   github:
     client_id: xxxxxxxxxxxxxxxxxxxxxxxxx
-    secret_key: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    secret_key: sk-b566245c14494273ac82b283bb9c71e8
     url: https://github.com/login/oauth/access_token
 authentication:
   client:
